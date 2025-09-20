@@ -6,9 +6,9 @@
 }
 
 .image{
-    max-width: 50%;
+    max-width: 100%;
+    min-width: 300px;
     height: auto;
-    object-fit: cover;
     display: block;
     overflow: hidden;
     border-radius: 15px;
